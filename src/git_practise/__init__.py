@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from git-practise!")
+print("Hello from git-practise!")
